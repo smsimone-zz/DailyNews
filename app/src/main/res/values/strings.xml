@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Daily news</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_verify">Verify</string>
+    <string name="check_news">Verify</string>
+    <string name="verify_news">Check</string>
+    <string name="rss_feed">Rss feed</string>
+    <string name="menu_vote">Vote this news</string>
+    <string name="timed_out">Request timed out</string>
+    <string name="menu_fake">Fake news</string>
+    <string name="menu_true">Trustable news</string>
+    <string name="paste_link">Paste here link to check</string>
+
+</resources>
